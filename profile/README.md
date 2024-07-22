@@ -23,7 +23,7 @@
 - Bilibili: [minus_zone](https://space.bilibili.com/5950992)
 - 小红书: [MinusZoneAI](https://www.xiaohongshu.com/user/profile/5f072e990000000001005472)
 
-## 赞助
+## 支持我
 <img src="https://github.com/user-attachments/assets/a7ef9684-4911-45b6-8071-a9b433dca6af"  width="200"/>
 
 ## 感谢支持
